@@ -1,0 +1,20 @@
+{
+  "name": "lazyload.js",
+  "version": "1.0.0",
+  "description": " A lightweight js library for lazyload",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/summerGreenTea/Mini-Query.git"
+  },
+  "keywords": [
+    "js",
+    "query",
+    "ie"
+  ],
+  "author": "summerTea",
+  "license": "MIT"
+}
